@@ -112,7 +112,7 @@ export default function RegisterUserForm({ handleNext }) {
             <FormControl fullWidth>
               <InputLabel id="demo-simple-select-label">Role</InputLabel>
               <Select labelId="demo-simple-select-label" id="demo-simple-select" label="Role" name="role">
-                <MenuItem value={"ROLE_ADMIN"}>Admin</MenuItem>
+                {/* <MenuItem value={"ROLE_ADMIN"}>Admin</MenuItem> */}
                 <MenuItem value={"ROLE_CUSTOMER"}>Customer</MenuItem>
               </Select>
             </FormControl>
