@@ -30,18 +30,18 @@ function Navbar() {
             <ul className="hidden md:flex items-center space-x-4">
               <li>
                 <Link
-                  to="/men"
+                  to="/organics"
                   className="font-medium text-white hover:text-black"
                 >
-                  Men
+                  Organics
                 </Link>
               </li>
               <li>
                 <Link
-                  to="/women"
+                  to="/clothing"
                   className="font-medium text-white hover:text-black"
                 >
-                  Women
+                  Clothing
                 </Link>
               </li>
               <li>

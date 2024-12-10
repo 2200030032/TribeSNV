@@ -174,9 +174,9 @@ const CreateProductForm = () => {
                 onChange={handleChange}
                 label="Top Level Category"
               >
-                <MenuItem value="men">Men</MenuItem>
-                <MenuItem value="women">Women</MenuItem>
-                <MenuItem value="kids">Kids</MenuItem>
+                <MenuItem value="organics">Organics</MenuItem>
+                <MenuItem value="frabics">Frabics</MenuItem>
+                <MenuItem value="painting">Painting</MenuItem>
               </Select>
             </FormControl>
           </Grid>
@@ -189,9 +189,9 @@ const CreateProductForm = () => {
                 onChange={handleChange}
                 label="Second Level Category"
               >
+                <MenuItem value="products">Products</MenuItem>
                 <MenuItem value="clothing">Clothing</MenuItem>
-                <MenuItem value="accessories">Accessories</MenuItem>
-                <MenuItem value="brands">Brands</MenuItem>
+                <MenuItem value="art">Art</MenuItem>
               </Select>
             </FormControl>
           </Grid>
@@ -204,11 +204,12 @@ const CreateProductForm = () => {
                 onChange={handleChange}
                 label="Third Level Category"
               >
-                <MenuItem value="top">Tops</MenuItem>
-                <MenuItem value="women_dress">Dresses</MenuItem>
-                <MenuItem value="t-shirts">T-Shirts</MenuItem>
-                <MenuItem value="saree">Saree</MenuItem>
-                <MenuItem value="lengha_choli">Lengha Choli</MenuItem>
+                <MenuItem value="forestspecials">Forest Specials</MenuItem>
+                <MenuItem value="beautycare">Beauty Care</MenuItem>
+                <MenuItem value="men">Mens</MenuItem>
+                <MenuItem value="women">Women</MenuItem>
+                <MenuItem value="handpainting">Hand Painting</MenuItem>
+                <MenuItem value="glasspainting">Glass Painting</MenuItem>
               </Select>
             </FormControl>
           </Grid>

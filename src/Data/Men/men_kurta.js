@@ -23,9 +23,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -51,9 +51,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -79,9 +79,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -107,9 +107,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -135,9 +135,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -163,9 +163,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -191,9 +191,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -219,9 +219,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -247,9 +247,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -275,9 +275,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -303,9 +303,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {
@@ -331,9 +331,9 @@ export const mens_kurta=[
           }
         ],
         "quantity": 100,
-        "topLavelCategory": "Men",
-        "secondLavelCategory": "Clothing",
-        "thirdLavelCategory": "mens_kurta",
+        "topLavelCategory": "frabics",
+        "secondLavelCategory": "clothing",
+        "thirdLavelCategory": "men",
         "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
   },
   {

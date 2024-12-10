@@ -1,7 +1,8 @@
 
 import axios from 'axios';
 // const DEPLOYED='https://e-commerce-server-production-0873.up.railway.app'
-// const LOCALHOST='http://localhost:2024'
+//  const LOCALHOST='http://localhost:2024'
+// const a="https://tribesnv-backend-production.up.railway.app"
 
 export const API_BASE_URL = "https://tribesnv-backend-production.up.railway.app"
 
